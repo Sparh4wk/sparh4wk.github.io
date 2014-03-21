@@ -65,6 +65,12 @@
                           {% else %}
                             <li><a href="{{ site.baseurl }}/pravidla">Pravidla</a></li>
                           {% endif %}
+
+                          {% if page.active == "updates" %}
+                            <li class="active"><a href="{{ site.baseurl }}/updates">Server Updates</a></li>
+                          {% else %}
+                            <li><a href="{{ site.baseurl }}/updates">Server Updates</a></li>
+                          {% endif %}
                         </ul>
                       </div>
                     </div>

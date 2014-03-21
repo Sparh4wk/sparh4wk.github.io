@@ -12,13 +12,13 @@ active: info
   <li>RPG addon (leveling) + Party leveling</li>
   <li>Oxide with best addons</li>
   <li>Events (PvP Arena,Hide and Seek and more..)</li>
-  <li>Air drops 15+</li>
+  <li>Air drops 20+</li>
   <li>Friendly community</li>
   <li>Sleepers enabled</li>
   <li>PVP enabled</li>
 </ul>
 
-<span style="color: red; font-weight: bold">Freshly started on 07/03/2014</span>
+<h4 style="color: #ce422b; font-weight: 900">Freshly started on 07/03/2014</h4>
 
 IP: net.connect 88.198.54.106:28085  
 TS3: [teamspeak.nbit.cz:9990](ts3server://teamspeak.nbit.cz?port=9990)  

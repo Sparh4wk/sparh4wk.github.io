@@ -1,0 +1,27 @@
+{% if paginator.total_pages > 1 %}
+  <div class="pagination pagination-centered">
+    <ul>
+      {% if paginator.previous_page %}
+        <li><a class="prev page-numbers" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Předchozí</a></li>
+      {% else %}
+        <li><span class="prev page-numbers current">&laquo; Předchozí</span></li>
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <li><span class="page-numbers current">{{ page }}</span></li>
+        {% elsif page == 1 %}
+          <li><a class="page-numbers" href="{{ site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+        {% else %}
+          <li><a class="page-numbers" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <li><a class="next page-numbers" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Další &raquo;</a></li>
+      {% else %}
+        <li><span class="next page-numbers current">Další &raquo;</span></li>
+      {% endif %}
+    </ul>
+  </div>
+{% endif %}

@@ -1,0 +1,39 @@
+---
+active: novinky
+---
+{% include header.html %}
+<section id="primary" class="offset2 span8">
+  <div id="content" role="main">
+    <article class="post">
+      <header class="page-header">
+        <h1 class="entry-title">{{ page.title }}</h1>
+
+        <div class="entry-meta">
+          <span class="sep">
+            Publikováno dne {{ page.date | date: "%d.%m.%Y" }}
+          </span>
+        </div>
+      </header>
+      <div class="entry-content clearfix">
+        {{ content }}
+      </div>
+    </article>
+    {% if page.comments %}
+    <!-- Disqus Embedcode -->
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'darkgraveyard';
+
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    <!-- Disqus Embedcode End -->
+    {% endif %}
+  </div>
+</section>
+{% include footer.html %}

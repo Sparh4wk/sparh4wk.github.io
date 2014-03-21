@@ -1,0 +1,50 @@
+---
+layout: default
+title: Novinky
+active: novinky
+---
+
+<section id="primary" class="offset2 span8">
+  <div id="content" role="main">
+    {% for post in paginator.posts %}
+    <article class="post">
+      <header class="page-header">
+        <h1 class="entry-title">
+          <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" rel="bookmark">
+            {{ post.title }}
+          </a>
+        </h1>
+
+        <div class="entry-meta">
+          {% if post.comments == true or post.comments == null %}
+            <span style="float: right;" class="comments-link">
+              <a title="Komentáře k článku {{ post.title }}" href="{{ post.url | prepend: site.baseurl }}#disqus_thread">Komentáře</a>
+            </span>
+          {% endif %}
+          <span class="sep">
+            Publikováno dne: {{ post.date | date: "%d.%m.%Y" }}
+          </span>
+        </div>
+
+      </header>
+      <div class="entry-content clearfix">
+        {{ post.content }}
+      </div>
+    </article>
+    {% endfor %}
+    {% include pagination.html %}
+
+    <!-- Disqus Embedcode -->
+    <script type="text/javascript">
+    var disqus_shortname = 'darkgraveyard';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+    </script>
+    <!-- Disqus Embedcode End -->
+
+  </div>
+</section>

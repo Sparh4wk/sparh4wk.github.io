@@ -6,7 +6,7 @@ active: info
 
 ## Server Info
 
-##RUST CZ/EU - Dark Graveyard
+###RUST CZ/EU - Dark Graveyard
 
 
 **• Active,Friendly and helpful Admins(Admins powers only used to protect form cheaters)

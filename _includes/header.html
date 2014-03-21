@@ -49,27 +49,39 @@
                       <div class="menu-main-menu-container">
                         <ul class="nav">
                           {% if page.active == "novinky" %}
-                            <li class="active"><a href="{{ site.baseurl }}/">Novinky</a></li>
+                            <li class="active"><a href="{{ site.baseurl }}/">News</a></li>
                           {% else %}
-                            <li><a href="{{ site.baseurl }}/">Novinky</a></li>
-                          {% endif %}
-
-                          {% if page.active == "kontakt" %}
-                            <li class="active"><a href="{{ site.baseurl }}/kontakt">Kontakt</a></li>
-                          {% else %}
-                            <li><a href="{{ site.baseurl }}/kontakt">Kontakt</a></li>
+                            <li><a href="{{ site.baseurl }}/">News</a></li>
                           {% endif %}
 
                           {% if page.active == "pravidla" %}
-                            <li class="active"><a href="{{ site.baseurl }}/pravidla">Pravidla</a></li>
+                            <li class="active"><a href="{{ site.baseurl }}/pravidla">Rules</a></li>
                           {% else %}
-                            <li><a href="{{ site.baseurl }}/pravidla">Pravidla</a></li>
+                            <li><a href="{{ site.baseurl }}/pravidla">Rules</a></li>
+                          {% endif %}
+
+                          {% if page.active == "commands" %}
+                            <li class="active"><a href="{{ site.baseurl }}/commands">Server Commands</a></li>
+                          {% else %}
+                            <li><a href="{{ site.baseurl }}/commands">Server Commands</a></li>
                           {% endif %}
 
                           {% if page.active == "updates" %}
                             <li class="active"><a href="{{ site.baseurl }}/updates">Server Updates</a></li>
                           {% else %}
                             <li><a href="{{ site.baseurl }}/updates">Server Updates</a></li>
+                          {% endif %}
+
+                          {% if page.active == "info" %}
+                            <li class="active"><a href="{{ site.baseurl }}/info">Server Info</a></li>
+                          {% else %}
+                            <li><a href="{{ site.baseurl }}/info">Server Info</a></li>
+                          {% endif %}
+
+                          {% if page.active == "kontakt" %}
+                            <li class="active"><a href="{{ site.baseurl }}/kontakt">Contact</a></li>
+                          {% else %}
+                            <li><a href="{{ site.baseurl }}/kontakt">Contact</a></li>
                           {% endif %}
                         </ul>
                       </div>

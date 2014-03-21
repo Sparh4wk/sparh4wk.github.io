@@ -1,7 +1,7 @@
 name: Dark Graveyard Rust Cz/Eu Server
 markdown: redcarpet
 pygments: true
-baseurl: /dg
+baseurl: 
 exclude: [README.markdown, package.json, Gulpfile.js, node_modules, Vagrantfile, .vagrant]
 permalink: pretty
 paginate: 5

@@ -6,7 +6,7 @@ active: commands
 
 ## Server Commands
 
-<section id="scoped-content">
+<section>
   <style type="text/css" scoped>
     span {
       color: #ce422b;
@@ -86,6 +86,4 @@ Seznam Skillu:
 Na serveru je také aktivován ownership mód. V tomto módu je nastaveno, že si můžete bez pomoci admina oddělat špatně položené části domu.  
 Jde oddělat: Pilíře, Stropy, Základy (ale jen pouze na nich nejsou stěny či dveře)
 
-</style>
-
-
+</section>

@@ -21,7 +21,7 @@ To platí i pro využívání symbolů spojených s těmito hnutími – obzvlá
 Například pokud stavíte s kamarádem dům, bavte se spolu v soukromé konverzaci nebo maximálně v lokálním voice chatu.  
 <span>4.</span> Server si vyhrazuje právo upravit tato pravidla v reakci na nové skutečnosti, porušování pravidel, či různé chyby ve hře!  
 <span>5.</span> Na serveru je zakázano Griefování a jakékoliv jiné zničení cizí base! (mimo celkového přebrání)  
-<span>6.</span> Zabíjení mezi kamarády za učelem získání expu nebude tolerováno a povede k resování levelu.  
+<span>6.</span> Zabíjení mezi kamarády za učelem získání expu nebude tolerováno a povede k resetování levelu.  
 <span>7.</span> Na chatu je zakázano psát azbukou,činštinou nebo jiným typem písma než-li latinkou.  
 <span>8.</span> Hackování či jakékoliv jiné podvádění nebo zvýhodnování povede k okamžitému banu!  
 <span>9.</span> Chováni ve hře, na fóru musí být v souladu se zákony ČR!

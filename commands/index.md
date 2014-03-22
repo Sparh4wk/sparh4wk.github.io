@@ -21,7 +21,7 @@ active: commands
 <span>/history</span> - zobrazí historii chatu  
 <span>/ping</span> - zobrazí Váš ping (odezvu serveru)  
 <span>/Players</span> - zobrazí seznam hráčů na serveru  
-<span>/rules</span> - zobrazí pravidla serveru  
+<span>/server</span> - zobrazí informace o serveru  
 <span>/location</span> - zobrazí lokaci na které se nacházíte  
 
 <span>/share nick</span> - povolí sdílet dvěře hráčem xxx  
@@ -59,7 +59,12 @@ active: commands
 
 Seznam Skillu:
 
-<span>Damage</span> - Dostanete bonus k poškození  
+<span>Melee</span> - Dostanete bonus k útoku sekerou, krumpáčem a kamenem  
+<span>Bow</span> - Dostanete bonus k poškození při střelbě z luku  
+<span>Pistol</span> - Dostanete bonus k poškození při střelbě pistolema  
+<span>SMG</span> - Dostanete bonus k poškození při střelbě z MP5  
+<span>Rifle</span> - Dostanete bonus k poškození při střelbě z M4 a Bolt Action Rifle  
+<span>Pumpaction</span> - Dostanete bonus k poškození při střelbě z Brokonvic  
 <span>Armor</span> - Dostanete bonus k obraně  
 <span>Lifedrain</span> - Dostanete bonus k používání lékáren (rychlej je budete používat) - ve vývoji - použití příkazem /ld  
 <span>Cooking</span> - Dostanete bonus k vaření (rychleji vaříte) - ve vývoji - použití příkazem /co  
@@ -79,9 +84,9 @@ Seznam Skillu:
 <span>/groupkick "nick"</span> - vyhodí hráče ze skupiny  
 <span>/groupaccept</span> - potvrdí přijetí do skupiny  
 <span>/groupleave</span> - opustí skupinu  
-<span>/grouplist</span> -obrazí všechny skupiny na serveru  
-<span>/gc msg</span> -íšete do chatu jen pro vaši skupinu  
-<span>/group</span> -obrazí hráče ve vaší skupině  
+<span>/grouplist</span> - obrazí všechny skupiny na serveru  
+<span>/gc msg</span> - píšete do chatu jen pro vaši skupinu  
+<span>/group</span> - obrazí hráče ve vaší skupině  
 
 Na serveru je také aktivován ownership mód. V tomto módu je nastaveno, že si můžete bez pomoci admina oddělat špatně položené části domu.  
 Jde oddělat: Pilíře, Stropy, Základy (ale jen pouze na nich nejsou stěny či dveře)

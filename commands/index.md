@@ -6,78 +6,86 @@ active: commands
 
 ## Server Commands
 
-<font color="#ce422b">**/help**</font>                   - zobrazí nápovědu  
+<section id="scoped-content">
+  <style type="text/css" scoped>
+    span {
+      color: #ce422b;
+      font-weight: bold
+    }
+  </style>
 
-<a class="thumbnail" href="https://f.cloud.github.com/assets/7014826/2490345/f6afc0ae-b1a3-11e3-9655-0aabcd01ee8b.png"><img class="aligncenter" alt="Help" src="https://f.cloud.github.com/assets/7014826/2490345/f6afc0ae-b1a3-11e3-9655-0aabcd01ee8b.png"></a>
+<span>/help</span> - zobrazí nápovědu  
 
-<font color="#ce422b">**/history**</font>                -   zobrazí historii chatu  
-<font color="#ce422b">**/ping**</font>                   -   zobrazí Váš ping (odezvu serveru)  
-<font color="#ce422b">**/Players**</font>                -   zobrazí seznam hráčů na serveru  
-<font color="#ce422b">**/rules**</font>                  -   zobrazí pravidla serveru  
-<font color="#ce422b">**/location**</font>               -   zobrazí lokaci na které se nacházíte  
+<figure class="thumbnail"><img class="aligncenter" alt="Help" src="https://f.cloud.github.com/assets/7014826/2490345/f6afc0ae-b1a3-11e3-9655-0aabcd01ee8b.png"></figure>
 
-<font color="#ce422b">**/share nick**</font>             -   povolí sdílet dvěře hráčem xxx  
-<font color="#ce422b">**/unshare nick**</font>           -   zruší sdílení dveří s hráčem xxx  
+<span>/history</span> - zobrazí historii chatu  
+<span>/ping</span> - zobrazí Váš ping (odezvu serveru)  
+<span>/Players</span> - zobrazí seznam hráčů na serveru  
+<span>/rules</span> - zobrazí pravidla serveru  
+<span>/location</span> - zobrazí lokaci na které se nacházíte  
 
-<font color="#ce422b">**/fps**</font>                    -   zapne fps boost (slouží spíše pro starší PC)  
-<font color="#ce422b">**/fpsoff**</font>                 -   vypne fps boost  
-<font color="#ce422b">**/grass**</font>                  -   vypne/zapne trávu ve hře  
-<font color="#ce422b">**/censor**</font>                 -   vypne/zapne cenzuru (v defaultu je vypnutá)  
+<span>/share nick</span> - povolí sdílet dvěře hráčem xxx  
+<span>/unshare nick</span> - zruší sdílení dveří s hráčem xxx  
 
-<font color="#ce422b">**/b**</font>                      -   pokud máte v ruce zbraň a na někoho do 500m namíříte (pravým tlačítkem) tak se Vám zobrazí jeho nick a vzdálenost od Vás  
+<span>/fps</span> - zapne fps boost (slouží spíše pro starší PC)  
+<span>/fpsoff</span> - vypne fps boost  
+<span>/grass</span> - vypne/zapne trávu ve hře  
+<span>/censor</span> - vypne/zapne cenzuru (v defaultu je vypnutá)  
 
-<font color="#ce422b">**/vote**</font>                   -   zobrazí se Vám adresa, na které můžete pro náš server hlasovat (hlasovat lze 1x za 24 hodin)  
-<font color="#ce422b">**/voted**</font>                  -   použijete pro dostání odměny za hlasovaní (hlasovat lze 1x za 24 hodin)  
+<span>/b</span> - pokud máte v ruce zbraň a na někoho do 500m namíříte (pravým tlačítkem) tak se Vám zobrazí jeho nick a vzdálenost od Vás  
 
-<font color="#ce422b">**/pm "nick" "msg"**</font>        -   psaní soukromé zprávy ve hře  
-<font color="#ce422b">**/re**</font>                     -   odpovězení na soukromou zprávu  
+<span>/vote</span> - zobrazí se Vám adresa, na které můžete pro náš server hlasovat (hlasovat lze 1x za 24 hodin)  
+<span>/voted</span> - použijete pro dostání odměny za hlasovaní (hlasovat lze 1x za 24 hodin)  
 
-<font color="#ce422b">**/level**</font>                  -   zobrazí nápovědu k RPG pluginu  
+<span>/pm "nick" "msg"</span> - psaní soukromé zprávy ve hře  
+<span>/re</span> - odpovězení na soukromou zprávu  
 
-<a class="thumbnail" href="https://f.cloud.github.com/assets/7014826/2490347/f6afeb6a-b1a3-11e3-8b97-4fe041742335.png"><img class="aligncenter" alt="Help" src="https://f.cloud.github.com/assets/7014826/2490347/f6afeb6a-b1a3-11e3-8b97-4fe041742335.png"></a>  
+<span>/level</span> - zobrazí nápovědu k RPG pluginu  
 
-<font color="#ce422b">**/top**</font>                    -   zobrazí TOP 10 hráče na serveru  
-<font color="#ce422b">**/list**</font>                   -   zobrazí hráče na serveru (jejich level, reputaci a skupinu)  
-<font color="#ce422b">**/RecycleList**</font>            -   zobrazí věci, které jdou recyklovat  
+<figure class="thumbnail"><img class="aligncenter" alt="Level" src="https://f.cloud.github.com/assets/7014826/2490347/f6afeb6a-b1a3-11e3-8b97-4fe041742335.png"></figure>
 
-<font color="#ce422b">**/skillHelp**</font>              -   zobrazí nápovědu pro skilly  
+<span>/top</span> - zobrazí TOP 10 hráče na serveru  
+<span>/list</span> - zobrazí hráče na serveru (jejich level, reputaci a skupinu)  
+<span>/RecycleList</span> - zobrazí věci, které jdou recyklovat  
 
-<a class="thumbnail" href="https://f.cloud.github.com/assets/7014826/2490344/f6af7f5e-b1a3-11e3-950f-b5028f65cbb0.png"><img class="aligncenter" alt="Help" src="https://f.cloud.github.com/assets/7014826/2490344/f6af7f5e-b1a3-11e3-950f-b5028f65cbb0.png"></a>  
+<span>/skillHelp</span> - zobrazí nápovědu pro skilly  
 
-<font color="#ce422b">**/skill**</font>                  -   zobrazí vaše skilly a level  
-<font color="#ce422b">**/learn "Skill"**</font>          -   naučí Vás skill, který si vyberete (je potřeba mít volný skill point, který dostáváte za level)  
-<font color="#ce422b">**/respec "Skill**"</font>         -   odnaučí Vás skill a vrátí Vám skill point  
-<font color="#ce422b">**/lps "nick"**</font>             -   zobrazí staty hráče  
+<figure class="thumbnail"><img class="aligncenter" alt="Skill" src="https://f.cloud.github.com/assets/7014826/2490344/f6af7f5e-b1a3-11e3-950f-b5028f65cbb0.png"></figure>
+
+<span>/skill</span> - zobrazí vaše skilly a level  
+<span>/learn "Skill"</span> - naučí Vás skill, který si vyberete (je potřeba mít volný skill point, který dostáváte za level)  
+<span>/respec "Skill"</span> - odnaučí Vás skill a vrátí Vám skill point  
+<span>/lps "nick"</span> - zobrazí staty hráče  
 
 Seznam Skillu:
 
-<font color="#ce422b">**Damage**</font>                  -   Dostanete bonus k poškození  
-<font color="#ce422b">**Armor**</font>                   -   Dostanete bonus k obraně  
-<font color="#ce422b">**Lifedrain**</font>               -   Dostanete bonus k používání lékáren (rychlej je budete používat) - ve vývoji - použití příkazem /ld  
-<font color="#ce422b">**Cooking**</font>                 -   Dostanete bonus k vaření (rychleji vaříte) - ve vývoji - použití příkazem /co  
-<font color="#ce422b">**Ammo556**</font>                 -   Zvýší % šanci pro získání 556 Ammo  
-<font color="#ce422b">**Ammo9**</font>                   -   Zvýší % šanci pro získání 9mm Ammo  
-<font color="#ce422b">**ShotgunShell**</font>            -   Zvýší % šanci pro získání Shotgun Shell  
-<font color="#ce422b">**Looting**</font>                 -   Pro větší loot  
-<font color="#ce422b">**Recycle**</font>                 -   Dostanete bonus k recyklovaní (používá se přes příkaz /recycle "item" "počet")  
-<font color="#ce422b">**Shield**</font>                  -   Absorbuje určité poškození (přes příkaz /shield dostanete info o tom, kolik štít pojme poškození)  
+<span>Damage</span> - Dostanete bonus k poškození  
+<span>Armor</span> - Dostanete bonus k obraně  
+<span>Lifedrain</span> - Dostanete bonus k používání lékáren (rychlej je budete používat) - ve vývoji - použití příkazem /ld  
+<span>Cooking</span> - Dostanete bonus k vaření (rychleji vaříte) - ve vývoji - použití příkazem /co  
+<span>Ammo556</span> - Zvýší % šanci pro získání 556 Ammo  
+<span>Ammo9</span> - Zvýší % šanci pro získání 9mm Ammo  
+<span>ShotgunShell</span> - Zvýší % šanci pro získání Shotgun Shell  
+<span>Looting</span> - Pro větší loot  
+<span>Recycle</span> - Dostanete bonus k recyklovaní (používá se přes příkaz /recycle "item" "počet")  
+<span>Shield</span> - Absorbuje určité poškození (přes příkaz /shield dostanete info o tom, kolik štít pojme poškození)  
 
+<span>/groupHelp</span> - zobrazí nápovědu pro skupiny  
 
+<figure class="thumbnail"><img class="aligncenter" alt="Group" src="https://f.cloud.github.com/assets/7014826/2490346/f6afc95a-b1a3-11e3-9456-bc2a13fb9ed1.png"></figure>
 
-<font color="#ce422b">**/groupHelp**</font>              -   zobrazí nápovědu pro skupiny  
-
-<a class="thumbnail" href="https://f.cloud.github.com/assets/7014826/2490346/f6afc95a-b1a3-11e3-9456-bc2a13fb9ed1.png"><img class="aligncenter" alt="Help" src="https://f.cloud.github.com/assets/7014826/2490346/f6afc95a-b1a3-11e3-9456-bc2a13fb9ed1.png"></a> 
-
-<font color="#ce422b">**/groupcreate "nazev"**</font>    -   vytvoří skupinu  
-<font color="#ce422b">**/groupinvite "nick"**</font>     -   pozve do skupiny hráče xxx  
-<font color="#ce422b">**/groupkick "nick"**</font>       -   vyhodí hráče ze skupiny  
-<font color="#ce422b">**/groupaccept**</font>            -   potvrdí přijetí do skupiny  
-<font color="#ce422b">**/groupleave**</font>             -   opustí skupinu  
-<font color="#ce422b">**/grouplist**</font>               - zobrazí všechny skupiny na serveru  
-<font color="#ce422b">**/gc msg**</font>                 - píšete do chatu jen pro vaši skupinu  
-<font color="#ce422b">**/group**</font>                    - zobrazí hráče ve vaší skupině  
+<span>/groupcreate "nazev"</span> - vytvoří skupinu  
+<span>/groupinvite "nick"</span> - pozve do skupiny hráče xxx  
+<span>/groupkick "nick"</span> - vyhodí hráče ze skupiny  
+<span>/groupaccept</span> - potvrdí přijetí do skupiny  
+<span>/groupleave</span> - opustí skupinu  
+<span>/grouplist</span> -obrazí všechny skupiny na serveru  
+<span>/gc msg</span> -íšete do chatu jen pro vaši skupinu  
+<span>/group</span> -obrazí hráče ve vaší skupině  
 
 Na serveru je také aktivován ownership mód. V tomto módu je nastaveno, že si můžete bez pomoci admina oddělat špatně položené části domu.  
 Jde oddělat: Pilíře, Stropy, Základy (ale jen pouze na nich nejsou stěny či dveře)
+
+</style>
 
 

@@ -6,4 +6,4 @@ active: updates
 
 ## Server Updates
 
-### Hello word!
+### Comming Soon

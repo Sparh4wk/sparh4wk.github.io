@@ -7,7 +7,7 @@ active: info
 ##RUST CZ/EU - Dark Graveyard
 
 <ul style="font-weight: bold">
-  <li>Active,Friendly and helpful Admins(Admins powers only used to protect form cheaters)</li>
+  <li>Active,Friendly and helpful Admins(Admins powers only used to protect from cheaters)</li>
   <li>No hackers!</li>
   <li>RPG addon (leveling) + Party leveling</li>
   <li>Oxide with best addons</li>

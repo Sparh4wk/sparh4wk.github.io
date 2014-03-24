@@ -1,17 +1,17 @@
 ---
-layout: default
+layout: info
 title: Ban List
 active: banlist
 ---
 
-<section class="offset2 span8" id="primary">
+<!-- <section class="offset2 span8" id="primary">
 <div role="main" id="content">
 
 <article class="post">
 <header class="page-header">
 <h2 class="entry-title">Ban List</h2>
 </header>
-<div class="entry-content clearfix">
+<div class="entry-content clearfix"> -->
         <div class="Banlist">
           <table>
             <tr>
@@ -71,7 +71,7 @@ active: banlist
             </tr>
           </table>
         </div>
-</div>
+<!-- </div>
 </article>
 </div>
-</section>
+</section> -->

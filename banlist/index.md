@@ -3,6 +3,9 @@ layout: default
 title: Ban List
 active: banlist
 ---
+
+##Ban List  
+
 <section id="primary" class="span8">
   <div id="content" role="main">
     <article class="post">
@@ -20,7 +23,7 @@ active: banlist
                    Duration
                </td>
             </tr>
-            <tr hover>
+            <tr>
                 <td >
                     Row 1
                 </td>

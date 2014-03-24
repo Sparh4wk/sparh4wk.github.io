@@ -3,7 +3,7 @@ layout: info
 title: Ban List
 active: banlist
 ---
-
+## Server Commands
 <!-- <section class="offset2 span8" id="primary">
 <div role="main" id="content">
 

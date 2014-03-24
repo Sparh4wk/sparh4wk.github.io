@@ -6,6 +6,16 @@ active: banlist
 
 ## Ban List
 
+<head>
+<style>
+table,th,td
+{
+border:1px solid black;
+border-collapse:collapse;
+}
+</style>
+</head>
+
 <table>
   <tr>
     <td>Nickname</td>

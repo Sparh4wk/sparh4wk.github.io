@@ -3,13 +3,15 @@ layout: default
 title: Ban List
 active: banlist
 ---
-## Ban List
-<section id="primary" class="span8">
+
+##Ban List
+
+<section id="primary" class="span8" align="center">
   <div id="content" role="main">
     <article class="post">
       <div class="entry-content clearfix">
 
-<div class="Banlist" ><center>
+<div class="Banlist" >
                 <table >
                     <tr>
                         <td>
@@ -66,7 +68,7 @@ active: banlist
                             Row 3
                         </td>
                     </tr>
-                </table></center>
+                </table>
             </div>
         </div>
     </article>

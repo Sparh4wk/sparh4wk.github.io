@@ -280,7 +280,7 @@ margin-bottom: 0 !important;
 
 }
 .Banlist tr:nth-child(odd){ background-color:#313232; }
-.Banlist tr:nth-child(even)    { background-color:#f3e7dd; }.Banlist td{
+.Banlist tr:nth-child(even)    { background-color:#313232; }.Banlist td{
   vertical-align:middle;
 
 
@@ -326,5 +326,5 @@ margin-bottom: 0 !important;
 .Banlist tr:first-child td:last-child{
   border-width:0px 0px 1px 1px;
 }
-.Banlist tr:hover {background-color:#ffffff;}
+.Banlist tr:hover {background-color:#f3e7dd;}
 }

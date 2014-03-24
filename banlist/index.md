@@ -9,7 +9,7 @@ active: banlist
     <article class="post">
       <div class="entry-content clearfix">
 <div class="Banlist" >
-                <table >
+                <table align="center">
                     <tr>
                         <td>
                             Title 1

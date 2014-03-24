@@ -6,7 +6,7 @@ active: banlist
 
 ##Ban List
 
-<section id="primary" class="span8" align="center">
+<section id="primary" class="span8">
   <div id="content" role="main">
     <article class="post">
       <div class="entry-content clearfix">

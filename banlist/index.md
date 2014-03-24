@@ -3,22 +3,23 @@ layout: default
 title: Ban List
 active: banlist
 ---
-
+## Ban List
 <section id="primary" class="span8">
   <div id="content" role="main">
     <article class="post">
       <div class="entry-content clearfix">
+
 <div class="Banlist" ><center>
                 <table >
                     <tr>
                         <td>
-                            Title 1
+                            Nickname
                         </td>
                         <td >
-                            Title 2
+                            Reason
                         </td>
                         <td>
-                            Title 3
+                            Duration
                         </td>
                     </tr>
                     <tr>

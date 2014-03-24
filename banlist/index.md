@@ -4,7 +4,7 @@ title: Ban List
 active: banlist
 ---
 
-##Ban List
+
 
 <section id="primary" class="span8">
   <div id="content" role="main">

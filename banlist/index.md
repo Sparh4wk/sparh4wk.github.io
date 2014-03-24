@@ -8,8 +8,8 @@ active: banlist
   <div id="content" role="main">
     <article class="post">
       <div class="entry-content clearfix">
-<div class="Banlist" >
-                <table align="center">
+<div class="Banlist" ><center>
+                <table >
                     <tr>
                         <td>
                             Title 1
@@ -65,7 +65,7 @@ active: banlist
                             Row 3
                         </td>
                     </tr>
-                </table>
+                </table></center>
             </div>
         </div>
     </article>

@@ -4,13 +4,15 @@ title: Ban List
 active: banlist
 ---
 
-<font color: "#ce422b">##Ban List</font>
+<section class="offset2 span8" id="primary">
+<div role="main" id="content">
 
-<section id="primary" class="span8">
-  <div id="content" role="main">
-    <article class="post">
-      <div class="entry-content clearfix">
-        <div class="Banlist" >
+<article class="post">
+<header class="page-header">
+<h1 class="entry-title">Banlist</h1>
+</header>
+<div class="entry-content clearfix">
+        <div class="Banlist">
           <table>
             <tr>
                <td>
@@ -69,7 +71,7 @@ active: banlist
             </tr>
           </table>
         </div>
-      </div>
-    </article>
-  </div>
+</div>
+</article>
+</div>
 </section>

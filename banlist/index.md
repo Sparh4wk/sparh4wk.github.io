@@ -20,7 +20,7 @@ active: banlist
                    Duration
                </td>
             </tr>
-            <tr>
+            <tr hover>
                 <td >
                     Row 1
                 </td>

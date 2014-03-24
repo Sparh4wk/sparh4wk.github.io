@@ -9,7 +9,7 @@ active: banlist
 
 <article class="post">
 <header class="page-header">
-<h1 class="entry-title">Ban List</h1>
+<h2 class="entry-title">Ban List</h2>
 </header>
 <div class="entry-content clearfix">
         <div class="Banlist">

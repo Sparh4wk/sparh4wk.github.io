@@ -88,6 +88,12 @@
                             <li><a href="{{ site.baseurl }}/info">Server Info</a></li>
                           {% endif %}
 
+                          {% if page.active == "info" %}
+                            <li class="active"><a href="{{ site.baseurl }}/banlist">Ban List</a></li>
+                          {% else %}
+                            <li><a href="{{ site.baseurl }}/banlist">Ban List</a></li>
+                          {% endif %}
+
                           {% if page.active == "kontakt" %}
                             <li class="active"><a href="{{ site.baseurl }}/kontakt">Contact</a></li>
                           {% else %}

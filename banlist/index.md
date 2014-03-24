@@ -16,7 +16,7 @@ border-collapse:collapse;
 </style>
 </head>
 
-<table>
+<table align="center">
   <tr>
     <td>Nickname</td>
     <td>Reason</td>

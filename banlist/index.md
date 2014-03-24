@@ -4,19 +4,19 @@ title: Ban List
 active: banlist
 ---
 
-##Ban List  
+<font color: "#ce422b">##Ban List</font>
 
 <section id="primary" class="span8">
   <div id="content" role="main">
     <article class="post">
       <div class="entry-content clearfix">
         <div class="Banlist" >
-          <table >
+          <table>
             <tr>
                <td>
                    Nickname
                </td>
-               <td >
+               <td>
                    Reason
                </td>
                <td>
@@ -24,7 +24,7 @@ active: banlist
                </td>
             </tr>
             <tr>
-                <td >
+                <td>
                     Row 1
                 </td>
                 <td>
@@ -35,18 +35,7 @@ active: banlist
                 </td>
             </tr>
             <tr>
-                <td >
-                    Row 2
-                </td>
                 <td>
-                    Row 2
-                </td>
-                <td>
-                    Row 2
-                </td>
-            </tr>
-            <tr>
-                <td >
                     Row 2
                 </td>
                 <td>
@@ -57,7 +46,18 @@ active: banlist
                 </td>
             </tr>
             <tr>
-                <td >
+                <td>
+                    Row 2
+                </td>
+                <td>
+                    Row 2
+                </td>
+                <td>
+                    Row 2
+                </td>
+            </tr>
+            <tr>
+                <td>
                     Row 3
                 </td>
                 <td>

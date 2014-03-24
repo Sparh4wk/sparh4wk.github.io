@@ -4,67 +4,73 @@ title: Ban List
 active: banlist
 ---
 
-## Ban List
+{% include header.html %}
+<section id="primary" class="span8">
+  <div id="content" role="main">
+    <article class="post">
+      <div class="entry-content clearfix">
+<div class="Banlist" >
+                <table >
+                    <tr>
+                        <td>
+                            Title 1
+                        </td>
+                        <td >
+                            Title 2
+                        </td>
+                        <td>
+                            Title 3
+                        </td>
+                    </tr>
+                    <tr>
+                        <td >
+                            Row 1
+                        </td>
+                        <td>
+                            Row 1
+                        </td>
+                        <td>
+                            Row 1
+                        </td>
+                    </tr>
+                    <tr>
+                        <td >
+                            Row 2
+                        </td>
+                        <td>
+                            Row 2
+                        </td>
+                        <td>
+                            Row 2
+                        </td>
+                    </tr>
+                    <tr>
+                        <td >
+                            Row 2
+                        </td>
+                        <td>
+                            Row 2
+                        </td>
+                        <td>
+                            Row 2
+                        </td>
+                    </tr>
+                    <tr>
+                        <td >
+                            Row 3
+                        </td>
+                        <td>
+                            Row 3
+                        </td>
+                        <td>
+                            Row 3
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </article>
+  </div>
+</section>
+{% include footer.html %}
 
-<head>
-<style>
-table,th,td
-{
-border:1px solid black;
-border-collapse:collapse;
-}
-</style>
-</head>
-
-<table align="center">
-  <tr>
-    <td>Nickname</td>
-    <td>Reason</td>
-    <td>Duration</td>
-  </tr>
-  <tr>
-    <td>Test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>tet</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>asdasd</td>
-    <td>asdasd</td>
-  </tr>
-  <tr>
-    <td>asdasd</td>
-    <td>asdasd</td>
-    <td>asdasd</td>
-  </tr>
-  <tr>
-    <td>asdasdasdasdasdasdasdasd</td>
-    <td>asdasd</td>
-    <td>asdasd</td>
-  </tr>
-  <tr>
-    <td>asdasd</td>
-    <td>asdasd</td>
-    <td>asdasd</td>
-  </tr>
-  <tr>
-    <td>asdasd</td>
-    <td>asdasd</td>
-    <td>asdasd</td>
-  </tr>
-  <tr>
-    <td>asdasd</td>
-    <td>asdasd</td>
-    <td>asdasdasdasdasdasdasdasd</td>
-  </tr>
-</table>

@@ -289,7 +289,7 @@ margin-bottom: 0 !important;
   text-align:center;
   padding:7px;
   font-size:13px;
-  font-family:Arial;
+  font-family:"Roboto Condensed";
   font-weight:bold;
   color:#776868;
 }.Banlist tr:last-child td{
@@ -309,7 +309,7 @@ margin-bottom: 0 !important;
   text-align:center;
   border-width:0px 0px 1px 1px;
   font-size:17px;
-  font-family:Arial;
+  font-family:"Roboto Condensed";
   font-weight:bold;
   color:#ce422b;
 }

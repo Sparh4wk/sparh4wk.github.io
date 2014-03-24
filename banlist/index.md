@@ -4,7 +4,6 @@ title: Ban List
 active: banlist
 ---
 
-{% include header.html %}
 <section id="primary" class="span8">
   <div id="content" role="main">
     <article class="post">
@@ -72,5 +71,3 @@ active: banlist
     </article>
   </div>
 </section>
-{% include footer.html %}
-

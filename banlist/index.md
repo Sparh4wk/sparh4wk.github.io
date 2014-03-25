@@ -26,47 +26,35 @@ active: banlist
                </td>
             </tr>
             <tr>
-                <td>
-                    Row 1
+                <td>                    
                 </td>
-                <td>
-                    Row 1
+                <td>                    
                 </td>
-                <td>
-                    Row 1
+                <td>                    
                 </td>
             </tr>
             <tr>
-                <td>
-                    Row 2
+                <td>                    
                 </td>
-                <td>
-                    Row 2
+                <td>                    
                 </td>
-                <td>
-                    Row 2
+                <td>                    
                 </td>
             </tr>
             <tr>
-                <td>
-                    Row 2
+                <td>                    
                 </td>
-                <td>
-                    Row 2
+                <td>                    
                 </td>
-                <td>
-                    Row 2
+                <td>                    
                 </td>
             </tr>
             <tr>
-                <td>
-                    Row 3
+                <td>                    
                 </td>
-                <td>
-                    Row 3
+                <td>                    
                 </td>
-                <td>
-                    Row 3
+                <td>                    
                 </td>
             </tr>
           </table>

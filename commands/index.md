@@ -32,8 +32,6 @@ active: commands
 <span>/grass</span> - vypne/zapne trávu ve hře  
 <span>/censor</span> - vypne/zapne cenzuru (v defaultu je vypnutá)  
 
-<span>/b</span> - pokud máte v ruce zbraň a na někoho do 500m namíříte (pravým tlačítkem) tak se Vám zobrazí jeho nick a vzdálenost od Vás  
-
 <span>/vote</span> - zobrazí se Vám adresa, na které můžete pro náš server hlasovat (hlasovat lze 1x za 24 hodin)  
 <span>/voted</span> - použijete pro dostání odměny za hlasovaní (hlasovat lze 1x za 24 hodin)  
 
@@ -66,8 +64,6 @@ Seznam Skillu:
 <span>Rifle</span> - Dostanete bonus k poškození při střelbě z M4 a Bolt Action Rifle  
 <span>Pumpaction</span> - Dostanete bonus k poškození při střelbě z Brokonvic  
 <span>Armor</span> - Dostanete bonus k obraně  
-<span>Lifedrain</span> - Dostanete bonus k používání lékáren (rychlej je budete používat) - ve vývoji - použití příkazem /ld  
-<span>Cooking</span> - Dostanete bonus k vaření (rychleji vaříte) - ve vývoji - použití příkazem /co  
 <span>Ammo556</span> - Zvýší % šanci pro získání 556 Ammo  
 <span>Ammo9</span> - Zvýší % šanci pro získání 9mm Ammo  
 <span>ShotgunShell</span> - Zvýší % šanci pro získání Shotgun Shell  

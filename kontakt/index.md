@@ -21,7 +21,7 @@ Owner:</span> [Raiden](http://steamcommunity.com/profiles/76561197990907444/)
 
 ###<span>Moderators</span>  
 
-[DonKapišto](http://steamcommunity.com/profiles/76561198125447847/)  
+ 
 
 Hrajete často a chcete se stát adminem či moderátorem? Kontaktujte jednoho z našich adminů.  
 Podmínkou je aktivita ve hře a věk 18+.

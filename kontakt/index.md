@@ -17,7 +17,8 @@ active: kontakt
 ###<span>Admins</span>  
 
 Main Admin: [Sparhawk](http://steamcommunity.com/id/Sp4rh4wk/)  
-Owner:</span> [Raiden](http://steamcommunity.com/profiles/76561197990907444/)
+Owner: [Raiden](http://steamcommunity.com/profiles/76561197990907444/)
+Admin: [Jerry](http://steamcommunity.com/id/Geremmi/)
 
 ###<span>Moderators</span>  
 

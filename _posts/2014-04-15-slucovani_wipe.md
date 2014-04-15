@@ -22,7 +22,7 @@ V pátek bude tento server vypnut a na serveru, se kterým se spojujeme proběhn
 
 Co se týče admin teamu, tj <span>Sparhawk, Jerry, Stark a Raiden</span>, tak bude zachován.  
 
-Nový příkaz, který Vás připojí na nový server je: <span>net.connect 144.76.73.12:28145</span>  
+Příkaz, který Vás připojí na nový server je: <span>net.connect 144.76.73.12:28145</span>  
 
 Dark Graveyard bude sloužit na testovací účely a bude definitivně vypnut cca 25.4.2014.  
 
